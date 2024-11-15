@@ -1,8 +1,6 @@
 <div align="center">
   <h2>👋 Hey, I'm Graeme.</h2>
   <samp>
-    <br>
-    <br>
     Languages:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">js</a>,
     <a href="https://luau.org/">luau</a>
