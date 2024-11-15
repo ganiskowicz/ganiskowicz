@@ -1,5 +1,5 @@
+## 👋 Hey, I'm Graeme.
 <div align="center">
-  ## 👋 Hey, I'm Graeme.
   <samp>
     <br>
     <br>
