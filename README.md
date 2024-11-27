@@ -11,6 +11,6 @@
     <br>
     <br>
     Contact:
-    <a href="mailto:ganiskowicx@gmail.com">ganiskowicx@gmail.com</a><br>
+    <a href="mailto:ganiskowic@gmail.com">ganiskowicx@gmail.com</a><br>
   </samp>
 </div>
