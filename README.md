@@ -11,7 +11,7 @@
     c++*,
     python*
     <br>
-    * lesser experienced
+    * lesser proficient
     <br>
     Systems:
     <a href="https://www.apple.com/ca/macos/">macOS</a>,
