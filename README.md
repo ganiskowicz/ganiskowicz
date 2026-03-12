@@ -7,8 +7,6 @@
     <a href="https://www.typescriptlang.org/">ts</a>,
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">c</a>,
     <br>
-    * lesser proficient
-    <br>
     Systems:
     <a href="https://www.apple.com/ca/macos/">macOS</a>,
     <a href="https://www.debian.org/">linux</a>
