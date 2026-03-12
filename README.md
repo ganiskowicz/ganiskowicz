@@ -6,10 +6,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">js</a>,
     <a href="https://www.typescriptlang.org/">ts</a>,
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">c</a>,
-    java*,
-    c#*,
-    c++*,
-    python*
     <br>
     * lesser proficient
     <br>
